@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+/.vs
+/Conway's Game of Life/.vs/Conway's Game of Life/v16
+/Conway's Game of Life/x64/Release
+/Conway's Game of Life/Release
+/Conway's Game of Life/Debug
+/Conway's Game of Life/Conway's Game of Life/x64/Release
+/Conway's Game of Life/Conway's Game of Life/Release
+/Conway's Game of Life/Conway's Game of Life/Debug
